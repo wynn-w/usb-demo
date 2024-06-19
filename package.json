@@ -1,0 +1,14 @@
+{
+  "name": "usb-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": { },
+  "keywords": ["usb", "node-usb", "web-usb-api", "node"],
+  "author": "wynn-w",
+  "license": "MIT",
+  "dependencies": {
+    "usb": "^2.13.0"
+  }
+}
